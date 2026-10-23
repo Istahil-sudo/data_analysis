@@ -1,0 +1,1 @@
+print("Ista er en fat bitch!")
